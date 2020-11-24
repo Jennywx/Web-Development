@@ -1,0 +1,104 @@
+body {
+  background-image: url('backgroundPic.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome {
+    padding-bottom: 20px;
+    font-size:large;
+    color:darkolivegreen;
+}
+
+
+.navigation-panel {
+    background-color: orange;
+    padding: 30px;
+    text-align: center;
+}
+
+.display-panel {
+    padding: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+
+}
+
+li {
+  margin-bottom:10px;
+  font-size:medium
+
+}
+
+span.recipe-list {
+  margin-right:20px;
+  color:cornflowerblue;
+  font-size:larger;
+  font-weight:bold;
+}
+
+span.author {
+  color:darkolivegreen;
+  font-size:larger;
+  font-weight:bold;
+
+}
+
+.display-title {
+    color:cornflowerblue;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+button:hover {
+    background-color: khaki;
+}
+
+
+
+button.login {
+  float:left;
+  margin-right:10px;
+}
+
+
+button.home {
+  float:left
+}
+
+button.logout {
+  float:right
+}
+
+
+button.logout {
+  margin-left:20px;
+  margin-right:20px;
+} 
+
+button {
+    background-color: ;
+    color: coral;
+    font-weight: bold;
+    border: white;
+    border-radius:5px;
+    padding:10px;
+    font-weight:bold;
+}
+
+input.recipe-title {
+    padding: 10px;
+    border-radius: 5px;
+    border: white;
+}
+
+input.username {
+  padding: 10px;
+    border-radius: 5px;
+    border: white;
+}
