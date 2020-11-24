@@ -1,0 +1,21 @@
+.wordListPanel {
+  color: black;
+  background-color: #add8e6; 
+  padding: 10px;
+  text-align: center;
+}
+
+
+.board { 
+  color: black;
+  font-size: large;
+  overflow-y:scroll;
+  background-color:#FFFAF0;
+  height:180px;
+  width: 410px;
+  margin: auto;
+}
+
+.guessForm {
+  padding: 10px;
+}
